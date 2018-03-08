@@ -2,5 +2,6 @@
 
 excel文件要求
 01. 只能导入第一个工作表，如果有多个，请手工调整工作表位置并修改config.js
+02. 导入的时候写mongo是并发的，所以没有顺序
 
 运行方式 填写config.js 然后 node sever.js

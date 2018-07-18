@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "co": "^4.6.0",
     "mongoose": "^5.0.5",
     "node-xlsx": "^0.11.2"
   }
